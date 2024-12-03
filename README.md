@@ -1,0 +1,2 @@
+# Feedre docs
+This repository contains a public wiki for Feedre. Feedre is a software application developed by Fluse that allows online retailers to manage data feeds to synchronise multiple sales channels.
